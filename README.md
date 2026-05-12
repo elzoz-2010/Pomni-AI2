@@ -78,7 +78,7 @@ npm start
 
 <div align="center">
 
-**Made with ❤️ by [VENi Owner](https://github.com/deveni0)**
+**Made with ❤️ by [ELZOZ Owner](https://github.com/deveni0)**
 
 **© 2026 Pomni AI- All Rights Reserved**
 
