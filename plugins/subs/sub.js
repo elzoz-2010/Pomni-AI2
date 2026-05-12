@@ -99,8 +99,8 @@ const Func = {
       ],
       mentions: [m.sender],
       newsletter: {
-        name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
-        jid: '120363225356834044@newsletter'
+        name: '𝐸𝐿𝑍𝑂𝑍 𝑒𝑙𝑚𝑜𝑠ℎ𝑎𝑔ℎ𝑖𝑏 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+        jid: '120363407772474123@newsletter'
       },
       interactiveConfig: {
         buttons_limits: 10,
